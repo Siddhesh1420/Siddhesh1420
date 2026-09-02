@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/siddhesh-bansal-646a98325/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/></a>
   <a href="https://siddhesh1420.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=2DD4BF" alt="Portfolio"/></a>
   <a href="mailto:siddheshb@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
-  <a href="https://github.com/Siddhesh1420/Siddhesh1420"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
+  <a href="https://github.com/Siddhesh1420"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
 </p>
 
 </div>
