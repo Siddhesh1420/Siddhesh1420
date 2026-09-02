@@ -86,9 +86,11 @@ languages               : [Python, C, SQL, JavaScript, HTML/CSS]
 
 ### `$ cat activity_graph`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh1420&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&hide_border=true&custom_title=SIDDHESH1420%20CONTRIBUTION%20STREAM" width="100%" alt="Contribution Graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
